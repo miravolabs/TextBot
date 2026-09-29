@@ -1,7 +1,7 @@
 # TextBot 🚀
 
 <p align="center">
-  <img src="https://miravolabsweb.web.app/icon.png" width="120" height="120" alt="TextBot Logo"/>
+  <img src="https://almahvuhmhdmhawjicmx.supabase.co/storage/v1/object/public/miravo-assets/icons/1790677343499_TextBot_logo.jpg" height="120" alt="TextBot Logo"/>
   <br>
   <b>An ultra-fast, lightweight, and modern text repeater utility for Android.</b>
   <br>
