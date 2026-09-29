@@ -37,8 +37,8 @@ Or visit the official website: [miravolabsweb.web.app](https://miravolabsweb.web
 - **Design System:** Material You / Material Design 3
 - **State Management:** Compose State API & Architecture Components
 - **Minification:** R8 ProGuard Optimization
-- **Minimum SDK:** API 24 (Android 7.0+)
-- **Target SDK:** API 34 (Android 14)
+- **Minimum SDK:** API 23 (Android 6.0+)
+- **Target SDK:** API 37 (Android 17)
 
 ---
 
